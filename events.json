@@ -383,5 +383,15 @@
 	"Stray Changeling Zombie Virus Pod":
 	{
 		"min_players": 20
+	},
+	"Malfunctioning AI":
+	{
+		"min_players": 16,
+		"weight": 5
+	},
+	"Malfunctioning AI Midround":
+	{
+		"min_players": 16,
+		"weight": 5
 	}
 }
