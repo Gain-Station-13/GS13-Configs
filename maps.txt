@@ -17,22 +17,16 @@ endmap
 
 # Production-level maps.
 
-#map deltastation
-#	minplayers 50
-#       minplayers 1
-#	votable
-#endmap
+map deltastation
+endmap
 
 map icebox
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/icebox/
 endmap
 
-#map catwalkstation
-#	minplayers 25
-#	minplayers 1
-#	votable
-#endmap
+map catwalkstation
+endmap
 
 map metastation
 	votable
@@ -50,16 +44,12 @@ map nebulastation
 	votable
 endmap
 
-#map wawastation
-#	minplayers 1
-#	votable
-#	minplayers 40
-#endmap
+map wawastation
+endmap
 
 # Bubberstation maps.
 
 map biodome
-	minplayers 1
 	votable
 	webmap_url https://webmap.affectedarc07.co.uk/maps/bubber/biodome/
 endmap
@@ -101,6 +91,12 @@ endmap
 #	votable
 #	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/northstar/
 #endmap
+
+# GS Maps
+
+map snaxi
+	votable
+endmap
 
 # Debug-only maps.
 
