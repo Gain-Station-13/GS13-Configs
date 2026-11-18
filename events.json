@@ -353,17 +353,17 @@
 		"weight": 25
 	},
 	"Bloodsuckers": {
-		"min_players": 12,
-		"weight": 15,
+		"min_players": 10,
+		"weight": 20,
 		"max_occurrences": 2
 	},
 	"Vampiric Accident": {
-		"min_players": 12,
-		"weight": 15,
+		"min_players": 10,
+		"weight": 20,
 		"max_occurrences": 2
 	},
 	"Changelings": {
-		"min_players": 13,
+		"min_players": 12,
 		"max_occurrences": 1,
 		"weight": 15
 	},
@@ -373,7 +373,7 @@
 		"weight": 13
 	},
 	"Genome Awakening (Changelings)": {
-		"min_players": 13,
+		"min_players": 12,
 		"max_occurrences": 1,
 		"weight": 15
 	},
@@ -386,12 +386,12 @@
 	},
 	"Malfunctioning AI":
 	{
-		"min_players": 16,
-		"weight": 5
+		"min_players": 13,
+		"weight": 8
 	},
 	"Malfunctioning AI Midround":
 	{
-		"min_players": 16,
-		"weight": 5
+		"min_players": 13,
+		"weight": 8
 	}
 }
